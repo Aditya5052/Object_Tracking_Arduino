@@ -2,3 +2,4 @@ imutils==0.5.4
 numpy==1.23.5
 collection==0.1.6
 opencv-python-headless==4.5.3.56
+pyserial==3.5
